@@ -7,13 +7,12 @@ def solution(skill, skill_tree):
                 answer -= 1
                 break
 
-            try:
-                # 선행되어야 할 스킬 인덱스가 더 크다면 (뒤에있다면) 불가능
-                if sk_tr.index(sk[i]) > sk_tr.index(sk[i+1]):
+            # 선행되어야 할 스킬 인덱스가 더 크다면 (뒤에있다면) 불가능
+            elif (skill[i] in sk_tr) & (skill[i+1] in sk_tr):
+                if sk_tr.index(skill[i]) > sk_tr.index(skill[i+1]):
                     answer -= 1
                     break
-            except ValueError: # list.index(a) --> list에 a가 존재하지 않으면 error발생
-                continue
+            # 스킬트리에 스킬이 존재하지 않거나 선행 스킬만 있는 경우에는 가능
     return answer
 
 
