@@ -17,6 +17,6 @@ def solution(n, words):
         answer = [0, 0]
     return answer
 
-N=3
-w=["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
-print(solution(N, w))
+#N=3
+#w=["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
+#print(solution(N, w))
