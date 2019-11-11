@@ -1,4 +1,4 @@
-# Brute Force
+# brute force
 
 42840.py  
 모의고사  
