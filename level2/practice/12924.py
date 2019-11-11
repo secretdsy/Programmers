@@ -17,5 +17,3 @@ def solution(n):
                 answer+=1
                 break            
     return answer
-
-print(solution(15))
