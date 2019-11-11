@@ -13,6 +13,3 @@ def solution(n):
     answer = answer.replace('1','2')
     answer = answer.replace('0','1')
     return answer
-
-# N=18
-# print(solution(N))
