@@ -16,6 +16,6 @@ def solution(skill, skill_tree):
     return answer
 
 
-sk = "CBD"
-st = ["BACDE", "CBADF", "AECB", "BDA"]
-print(solution(sk, st))
+#sk = "CBD"
+#st = ["BACDE", "CBADF", "AECB", "BDA"]
+#print(solution(sk, st))
