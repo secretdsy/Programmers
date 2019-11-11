@@ -11,4 +11,3 @@ def solution(n,a,b):
     return answer
 
 print(solution(8,4,7))
-# 2017 팁스타운
