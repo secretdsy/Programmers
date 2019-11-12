@@ -5,6 +5,11 @@
 https://programmers.co.kr/learn/courses/30/lessons/12899
 
 
+12909.py  
+올바른 괄호  
+https://programmers.co.kr/learn/courses/30/lessons/12909
+
+
 12924.py  
 숫자의 표현  
 https://programmers.co.kr/learn/courses/30/lessons/12924
@@ -33,10 +38,5 @@ https://programmers.co.kr/learn/courses/30/lessons/12985
 49993.py  
 스킬트리  
 https://programmers.co.kr/learn/courses/30/lessons/49993
-
-
-12909.py  
-올바른 괄호  
-https://programmers.co.kr/learn/courses/30/lessons/12909
 
 
