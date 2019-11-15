@@ -30,6 +30,11 @@ https://programmers.co.kr/learn/courses/30/lessons/12941
 https://programmers.co.kr/learn/courses/30/lessons/12949
 
 
+12953.py  
+N개의 최소공배수  
+https://programmers.co.kr/learn/courses/30/lessons/12953
+
+
 12981.py  
 영어 끝말잇기  
 https://programmers.co.kr/learn/courses/30/lessons/12981
