@@ -15,6 +15,11 @@ https://programmers.co.kr/learn/courses/30/lessons/12909
 https://programmers.co.kr/learn/courses/30/lessons/12924
 
 
+12939.py  
+최댓값과 최솟값  
+https://programmers.co.kr/learn/courses/30/lessons/12939
+
+
 12941.py  
 최솟값 만들기  
 https://programmers.co.kr/learn/courses/30/lessons/12941
