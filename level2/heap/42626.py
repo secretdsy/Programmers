@@ -6,13 +6,13 @@ def solution(scoville, K):
     heapq.heapify(scoville)
     while (1):
         if scoville[0] > K:
-            return answer
+            break
         elif len(scoville) == 1:
             answer = -1
             break
         else:
-            a=(heapq.heappop(scoville))
-            b=(heapq.heappop(scoville))
+            a = (heapq.heappop(scoville))
+            b = (heapq.heappop(scoville))
             heapq.heappush(scoville, (a + 2 * b))
             answer+=1
     return answer
