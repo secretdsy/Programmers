@@ -8,10 +8,11 @@ def solution(scoville, K):
         if scoville[0] > K:
             return answer
         elif len(scoville) == 1:
-            return -1
+            answer = -1
+            break
         else:
             a=(heapq.heappop(scoville))
             b=(heapq.heappop(scoville))
             heapq.heappush(scoville, (a + 2 * b))
             answer+=1
-    return -1
+    return answer
